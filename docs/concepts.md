@@ -24,7 +24,7 @@ However this is just the way recommended by Rekit. Don't hesitate to rename or d
 
 To get a quick feel on feature concept, you can look at the Rekit portal live demo: [https://rekit-portal.herokuapp.com](https://rekit-portal.herokuapp.com).
 
-See more instroduction about feature concept in the chapter: [feature oriented architecture](/docs/feature-oriented-architecture).
+See more introduction about feature concept in the chapter: [feature oriented architecture](/docs/feature-oriented-architecture).
 
 #### Component
 It's just React component. [According to Redux](http://redux.js.org/docs/basics/UsageWithReact.html), components could be divided into two categories: `container` and `presentational`. You can create them with Rekit easily:
